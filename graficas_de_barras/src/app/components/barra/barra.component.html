@@ -1,0 +1,23 @@
+<p>barra works!</p>
+<div>
+  <div>
+    <div style="display: block">
+      <canvas baseChart
+              [data]="barChartData"
+              [options]="barChartOptions"
+              [plugins]="barChartPlugins"
+              [type]="barChartType"
+              (chartHover)="chartHovered($event)"
+              (chartClick)="chartClicked($event)">
+      </canvas>
+    </div>
+    <button mat-button mat-raised-button color="primary" (click)="randomize()">Update</button>
+    <ul>
+      <li *ngFor="let variable of recovery">
+        {{variable.anio}}
+        {{variable.seriesA}}
+        {{variable.seriesB}}
+      </li>
+    </ul>
+  </div>
+</div>

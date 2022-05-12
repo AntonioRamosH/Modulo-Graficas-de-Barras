@@ -1,0 +1,50 @@
+
+[
+  {
+    "anio":"2006",
+    "seriesA":65,
+    "seriesB": 28
+  },
+  {
+    "anio":"2007",
+    "seriesA":59,
+    "seriesB":48
+  },
+  {"anio":"2008",
+    "seriesA":80,
+    "seriesB": 40
+  }
+,
+  {"anio":"2009",
+    "seriesA":81,
+    "seriesB": 19
+  }
+,
+  {"anio":"2010",
+    "seriesA":56,
+    "seriesB": 86
+  }
+,
+  {"anio":"2011",
+    "seriesA":55,
+    "seriesB": 27
+  }
+,
+  {"anio":"2012",
+    "seriesA":40,
+    "seriesB": 90
+  },
+  {"anio":"2013",
+    "seriesA":44,
+    "seriesB": 88
+  },
+  {"anio":"2014",
+    "seriesA":91,
+    "seriesB": 100
+  }
+,
+  {"anio":"2015",
+    "seriesA":91,
+    "seriesB": 100
+  }
+]
